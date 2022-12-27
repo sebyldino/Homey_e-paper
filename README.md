@@ -19,7 +19,7 @@ Features:
 
 
 
-===========================================================================================================================
+============================================================================================
 
 FR:
 Ecran e-paper pour Homey afin d'avoir une vue rapide sur vos appareil!
@@ -47,7 +47,7 @@ IDEAS:
 - Change icon when battery/screen is plug to USB (actually you will see "✓" on top right)
 - Only delete area is needed on wake-up (dont know if it's possible...)
      
-===========================================================================================================
+============================================================================
      
 IDEES
 - Faire une orientation à 90° soit part flow soit par un bouton embarqué
