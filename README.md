@@ -44,16 +44,17 @@ Caractéristiques:
 ![logo list](https://user-images.githubusercontent.com/17813720/209653485-fa90ec51-c317-4639-b91f-3d46382e093d.jpg)
 
 
-IDEAS:
+#IDEAS:
 - Add possibility to rotate screen to 90° by flow or onboard button
 - Dynamic icons based on device status
 - Change icon when battery/screen is plug to USB (actually you will see "✓" on top right)
 - Only delete area is needed on wake-up (dont know if it's possible...)
-- 
+
 I'm doing this for fun, let me know if there are any errors or improvements to be made :)
+
 ============================================================================
      
-IDEES
+#IDEES
 - Faire une orientation à 90° soit part flow soit par un bouton embarqué
 - Icon dynamique en fonction de l'état du device
 - Changer l'icone quand la batterie/écran est connecter à un USB (actuellement vous verrez "✓" en haut à droite)
