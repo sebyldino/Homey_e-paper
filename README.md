@@ -33,10 +33,9 @@ Caractéristiques:
 - Choix du type d'appareil (Homey renvoi "true" ou "false" mais pour une serrure par exemple c'est plus sympa d'avoir "Verrouillé" ou "Déverrouillée"!)
 - Activation/désactivation du Deep Sleep par flow
 - Temps du Deep Sleep paramétrable par flow
-- Affiche la météo actuelle
-- Pourcentage de la battery
+- Affichage de la météo actuelle
+- Affichage du pourcentage de la batterie
 - Paramètres sauvegarder dans la mémoire flash
-- Visualisez le pourcentage de la batterie sur l'écran
 - Sélectionner la langue (EN ou FR uniquement pour quelques paramètres)
 
 ![Image](https://user-images.githubusercontent.com/17813720/209645489-14fa63b7-56f7-42b0-8e54-9e91d8beeb51.jpg)
