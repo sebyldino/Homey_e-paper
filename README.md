@@ -40,6 +40,10 @@ Caractéristiques:
 
 ![Image](https://user-images.githubusercontent.com/17813720/209645489-14fa63b7-56f7-42b0-8e54-9e91d8beeb51.jpg)
 
+
+![logo list](https://user-images.githubusercontent.com/17813720/209653485-fa90ec51-c317-4639-b91f-3d46382e093d.jpg)
+
+
 IDEAS:
 - Add possibility to rotate screen to 90° by flow or onboard button
 - Dynamic icons based on device status
@@ -53,3 +57,6 @@ IDEES
 - Icon dynamique en fonction de l'état du device
 - Changer l'icone quand la batterie/écran est connecter à un USB (actuellement vous verrez "✓" en haut à droite)
 - N'effacer que les zones qui ont besoin de l'être au réveil (je ne sais pas si c'est possible...)
+
+
+
