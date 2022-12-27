@@ -49,6 +49,7 @@ Caractéristiques:
 - Dynamic icons based on device status
 - Change icon when battery/screen is plug to USB (actually you will see "✓" on top right)
 - Only delete area is needed on wake-up (dont know if it's possible...)
+- Made new case (I got it on Thingiverse, i think wood PLA is not pretty for this. Maybe white...)
 
 I'm doing this for fun, let me know if there are any errors or improvements to be made :)
 
@@ -59,6 +60,7 @@ I'm doing this for fun, let me know if there are any errors or improvements to b
 - Icon dynamique en fonction de l'état du device
 - Changer l'icone quand la batterie/écran est connecter à un USB (actuellement vous verrez "✓" en haut à droite)
 - N'effacer que les zones qui ont besoin de l'être au réveil (je ne sais pas si c'est possible...)
+- Faire une nouvelle coque (J'ai pris celle ci sur Thingiverse, je pense que le PLA bois ne vas pas avec. Peut-être blanc...)
 
 Je fais ça pour le plaisir, faites moi savoir s'il y a des erreurs ou des améliorations à apporter :)
 
