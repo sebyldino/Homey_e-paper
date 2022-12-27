@@ -60,7 +60,7 @@ I'm doing this for fun, let me know if there are any errors or improvements to b
 - Changer l'icone quand la batterie/écran est connecter à un USB (actuellement vous verrez "✓" en haut à droite)
 - N'effacer que les zones qui ont besoin de l'être au réveil (je ne sais pas si c'est possible...)
 
-Encore une fois je fais ça pour le plaisir, faites moi savoir s'il y a des erreurs ou des améliorations à apporter :)
+Je fais ça pour le plaisir, faites moi savoir s'il y a des erreurs ou des améliorations à apporter :)
 
 Seby 
 
