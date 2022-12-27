@@ -35,6 +35,7 @@ void setTimeDeepSleep() {
                                                                          BATTERY & UPDATE
   ==============================================================================================================================================*/
 void actionBatteryPercent() {
+  getBatteryPercent();
   epd_poweron();
   epd_clear_area(batteryValue);
   writeln((GFXfont *)&OpenSans10, batteryPercent.c_str(), &batteryValue_x, &batteryValue_y, NULL);
