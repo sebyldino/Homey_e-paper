@@ -15,7 +15,7 @@ Features:
 - Get battery percent
 - Settings are saved in flash
 - See on screen when was the last update 
-- Select Language (EN or FR, only for few settings)
+- Select Language (EN or FR, only for few settings, you will do it in flow)
 
 
 
@@ -35,8 +35,8 @@ Caractéristiques:
 - Temps du Deep Sleep paramétrable par flow
 - Affichage de la météo actuelle
 - Affichage du pourcentage de la batterie
-- Paramètres sauvegarder dans la mémoire flash
-- Sélectionner la langue (EN ou FR uniquement pour quelques paramètres)
+- Paramètres sauvegardés dans la mémoire flash
+- Sélectionner la langue (EN ou FR uniquement pour quelques paramètres, vous ferez le reste dans les flows)
 
 ![Image](https://user-images.githubusercontent.com/17813720/209645489-14fa63b7-56f7-42b0-8e54-9e91d8beeb51.jpg)
 
