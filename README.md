@@ -45,6 +45,7 @@ Caractéristiques:
 
 
 #IDEAS:
+- Optimization of wake up time to be shortest as possible
 - Add possibility to rotate screen to 90° by flow or onboard button
 - Dynamic icons based on device status
 - Change icon when battery/screen is plug to USB (actually you will see "✓" on top right)
@@ -55,7 +56,8 @@ I'm doing this for fun, let me know if there are any errors or improvements to b
 
 ============================================================================
      
-#IDEES
+#IDEES:
+- Optimisation du temps de réveil pour qu'il soit le plus court possible
 - Faire une orientation à 90° soit part flow soit par un bouton embarqué
 - Icon dynamique en fonction de l'état du device
 - Changer l'icone quand la batterie/écran est connecter à un USB (actuellement vous verrez "✓" en haut à droite)
