@@ -62,6 +62,7 @@
                                                                           FONTS
   ==============================================================================================================================================*/
 #include "font/firasans.h"
+#include "font/font2/opensans10.h"
 #include "font/font2/opensans16.h"
 #include "font/font2/opensans18.h"
 #include "font/font2/opensans18b.h"
