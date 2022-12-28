@@ -3,9 +3,9 @@ EN:
 
 Simple e-paper screen for Homey to get a quick view from your devices!
 Created from a LILYGO® T5-4.7 inch E-Paper. 
-Work with the flow with HomeyDuino app: https://homey.app/fr-fr/app/com.athom.homeyduino/Homeyduino/ 
+Work with the flow with [Homeyduino]( https://homey.app/fr-fr/app/com.athom.homeyduino/Homeyduino/ ) app
 Show every device you want, where you want and when you want with Homey Flow.
-Forum topic: https://community.homey.app/t/homeyduino-e-paper-pour-homey/74193
+Forum topic: [Here](https://community.homey.app/t/homeyduino-e-paper-pour-homey/74193)
 
 Features:
 - 24 customs icons
@@ -27,8 +27,8 @@ FR:
 
 Ecran e-paper pour Homey afin d'avoir une vue rapide sur vos appareil!
 Créé à partir d'un LILYGO® T5-4.7 inch E-Paper
-Sujet forum: https://community.homey.app/
-Fonctionne avec l'app HomeyDuino: https://homey.app/fr-fr/app/com.athom.homeyduino/Homeyduino/
+Sujet forum: [ICI](https://community.homey.app/t/homeyduino-e-paper-pour-homey/74193)
+Fonctionne avec l'app  [Homeyduino](https://homey.app/fr-fr/app/com.athom.homeyduino/Homeyduino/)
 Affichez n'importe quel appareil que vous souhaitez, où vous le souhaitez et quand vous le souhaitez.
 
 Caractéristiques:
