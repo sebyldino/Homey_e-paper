@@ -45,24 +45,32 @@ Caractéristiques:
 
 
 #IDEAS:
-- Optimization of wake up time to be shortest as possible
+
 - Add possibility to rotate screen to 90° by flow or onboard button
 - Dynamic icons based on device status
 - Change icon when battery/screen is plug to USB (actually you will see "✓" on top right)
-- Only delete area is needed on wake-up (dont know if it's possible...)
+
 - Made new case (I got it on Thingiverse, i think wood PLA is not pretty for this. Maybe white...)
+
+#CHECK:
+- Optimization of wake up time to be shortest as possible. Edit: delete timer and add counter for actions sended from Homey
+- Only delete area is needed on wake-up (dont know if it's possible...) Edit: possible but screen become more and more black at every wake up. So didn't do it
 
 I'm doing this for fun, let me know if there are any errors or improvements to be made :)
 
 ============================================================================
      
 #IDEES:
-- Optimisation du temps de réveil pour qu'il soit le plus court possible
+
 - Faire une orientation à 90° soit part flow soit par un bouton embarqué
 - Icon dynamique en fonction de l'état du device
 - Changer l'icone quand la batterie/écran est connecter à un USB (actuellement vous verrez "✓" en haut à droite)
-- N'effacer que les zones qui ont besoin de l'être au réveil (je ne sais pas si c'est possible...)
+
 - Faire une nouvelle coque (J'ai pris celle ci sur Thingiverse, je pense que le PLA bois ne vas pas avec. Peut-être blanc...)
+
+#FAIT:
+- Optimisation du temps de réveil pour qu'il soit le plus court possible. Edit: Suppression du timer et ajout d'un compteur pour les actions envoyé depuis Homey
+- N'effacer que les zones qui ont besoin de l'être au réveil (je ne sais pas si c'est possible...). Edit: Possible mais l'écran s'assombrit de plus en plus à chaque réveil. Donc je ne l'ai pas fais.
 
 Je fais ça pour le plaisir, faites moi savoir s'il y a des erreurs ou des améliorations à apporter :)
 
