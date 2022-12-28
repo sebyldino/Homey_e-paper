@@ -4,7 +4,7 @@ Simple e-paper screen for Homey to get a quick view from your devices!
 Created from a LILYGO® T5-4.7 inch E-Paper. 
 Work with the flow with HomeyDuino app: https://homey.app/fr-fr/app/com.athom.homeyduino/Homeyduino/ 
 Show every device you want, where you want and when you want with Homey Flow.
-Forum topic: https://community.homey.app/
+Forum topic: https://community.homey.app/t/homeyduino-e-paper-pour-homey/74193
 Features:
 - 24 customs icons
 - Weather icon changed with actual weather
