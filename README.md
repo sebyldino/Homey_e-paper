@@ -12,7 +12,7 @@ Show every device you want, where you want and when you want with Homey Flow.
 Forum topic: [Here](https://community.homey.app/t/homeyduino-e-paper-pour-homey/74193)
 
 Features:
-- 40 customs icons
+- 41 customs icons
 - 2 Display mode, 4 or 6 devices
 - Weather icon changed with actual weather
 - Device type can be choose (Homey return "true" or "false" but for exemple for a lock it's nicer to have "Lock" or "Unlock")
