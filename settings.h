@@ -1,8 +1,9 @@
 
 #define uS_TO_S_FACTOR 1000000ULL  // Conversion factor for micro seconds to seconds 
 
-unsigned long currentMillis;
-int intervalSendBattery = 10000;//10 secondes
+unsigned long currentMillis = 5000; 
+int intervalSendBattery = 60000;//1 minute
+bool batterySended = false;
 
 
 
