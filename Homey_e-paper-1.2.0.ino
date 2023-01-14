@@ -57,5 +57,13 @@ void loop() {
   if (!paperScreenOnline) {
     paperScreenOnline = Homey.trigger("paperScreenOnline", "Paper Screen is Online");
   }
+    if(!batterySended){
   Homey.setCapabilityValue("measure_battery", (int) batteryState);
+  batterySended = true;
+  }
+  
+  if((millis() - currentMillis) >= intervalSendBattery){
+  Homey.setCapabilityValue("measure_battery", (int) batteryState);
+  currentMillis = millis();
+  }
 }
