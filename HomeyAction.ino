@@ -49,6 +49,6 @@ void homeySetup() {
 
   Homey.addAction("Display_Mode", defineDisplayMode);
 
-  Homey.addAction("Custom_weather_Icon", actionCustomWeatherIcon);
+  Homey.addAction("Custom_Weather_Icon", actionCustomWeatherIcon);
 
 }
